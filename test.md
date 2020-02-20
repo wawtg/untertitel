@@ -1,5 +1,6 @@
 # aws Cookbook
 - Autoscaling (`autoscaling`)
+
 Unsupported AWS resources that have other cookbooks include but are not limited to:
 - [aws_security](https://supermarket.chef.io/cookbooks/...)
 ## Important - Security Implications
